@@ -59,6 +59,8 @@ The following list is a set of resources compiled by the people in your practice
     - [Continuous Integration Process](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Continuous%20Integration%20Process.md)
     - [Engineering Key mgmt](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Key%20Management.md)
     - [How to File Bugs, Tasks, and Questions](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Administrative/How%20to%20File%20Bugs%20Tasks%20and%20Questions.md)
+    - [`breakers`](https://github.com/department-of-veterans-affairs/breakers):
+        Implements the circuit breaker pattern for Ruby using a Faraday middleware
 - Code review
     - [Code Review Norms](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Code%20Review%20Norms.md)
     - Release process
