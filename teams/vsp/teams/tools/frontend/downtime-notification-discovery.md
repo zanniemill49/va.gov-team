@@ -110,6 +110,14 @@ Not configured to use the `<DowntimeNotification>` component
 
 ## Forms apps
 
+### veteran-representative
+
+No downtime notification behavior or listed dependencies.
+
+The `submitUrl` is `/v0/vso_appointments`
+
+---
+
 <!-- use `rg "downtime:" src/applications/` -->
 
 These are the forms apps (and their listed dependencies) that use downtime notifications by setting the `downtime` property on their form config.
