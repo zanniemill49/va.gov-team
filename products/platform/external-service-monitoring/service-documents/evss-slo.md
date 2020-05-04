@@ -29,6 +29,7 @@ This document describes the (reflective) SLOs for the Enterprise Veteran Self-Se
 - :link: [Integration Details](test)
 - :link: [`vets-api/`](https://github.com/department-of-veterans-affairs/vets-api/tree/master/lib/evss)
 
+![screenshot.png](./screenshots/evss_back_slo_screenshot.png)
   
 ## SLIs and SLOs
 

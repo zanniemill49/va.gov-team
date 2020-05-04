@@ -29,6 +29,7 @@ This document describes the (reflective) SLOs for the  external service.
 - :link: [Integration Details](test)
 - :link: [`vets-api/`]()
 
+![screenshot.png](./screenshots/va_mobile_back_slo_screenshot.png)
   
 ## SLIs and SLOs
 

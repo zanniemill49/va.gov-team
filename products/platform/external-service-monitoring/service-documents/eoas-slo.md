@@ -29,6 +29,7 @@ This document describes the (reflective) SLOs for the Eligibility Office Automat
 - :link: [Integration Details](test)
 - :link: [`vets-api/`](https://github.com/department-of-veterans-affairs/vets-api/tree/master/lib/preneeds)
 
+![screenshot.png](./screenshots/eoas_back_slo_screenshot.png)
   
 ## SLIs and SLOs
 

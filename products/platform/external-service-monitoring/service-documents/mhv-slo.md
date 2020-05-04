@@ -29,6 +29,7 @@ This document describes the (reflective) SLOs for the MyHealtheVet external serv
 - :link: [Integration Details](test)
 - :link: [`vets-api/`](https://github.com/department-of-veterans-affairs/vets-api/tree/master/lib/bb)
 
+![screenshot.png](./screenshots/mhv_back_slo_screenshot.png)
   
 ## SLIs and SLOs
 
