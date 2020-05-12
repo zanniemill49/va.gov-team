@@ -1,6 +1,7 @@
 # Pull Request Process
 
-This VSA Process is currently a subset of the base-process defined by VSF and found here [Submit pull request](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/workflow/review/)
+This VSA Pull Request Process is based on the general [VSF Pull Request Process](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/workflow/review/).
+
    
    ## Pre Pull Request Checklist
    - [ ] Add the VSA label to the PR
@@ -11,19 +12,22 @@ This VSA Process is currently a subset of the base-process defined by VSF and fo
    
     
    ## Pull Request Process
-*   **Pull master** and **push feature branch** to `vets-website` repository
+1. **Pull master** and **push feature branch** to `vets-website` repository
 
+```
     git pull origin master
     git push origin 12345-issue-title
-
+```
 _Always **pull master** into your feature branch before creating a pull request._
 
-*   **Create a pull request** indicating that your code is ready for review.
-*   **Request peer review** on Github by tagging a fellow team member who you feel is qualified to review the code (this prevents the pull request from just sitting). You may also want to tag developers on other teams if the changes cover more than one application.
+2. Create a pull request** indicating that your code is ready for review.
+3. Request peer review** on Github by tagging a fellow team member who you feel is qualified to review the code (this prevents the pull request from just sitting). You may also want to tag developers on other teams if the changes cover more than one application.
 
-_Depending on the type of work done, you may need a product person to review and / or a developer to review. See [Code Review Norms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/a33e322c34798b6bbd863eeceb888c0420114c2c/platform/engineering/code_review_guidelines.md) for more information on how we do code reviews._
+> _Depending on the type of work done, you may need a product person to review and/or a developer to review. For more information on how we do code reviews, consult_:
+> - *[VSP Code Review Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/code_review_guidelines.md)*
+> - *[VSA Code Review Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/engineering/code_review_guidelines.md)*
 
-*   Use Zenhub to **connect** pull request with a **linked issue**
+4. Use Zenhub to **connect** pull request with a **linked issue**
 >This is extremely important and all VSA PR's without exception need to have a corresponding **linked issue**
 
 
@@ -31,7 +35,7 @@ _If you use the Zenhub Chrome [extension](https://chrome.google.com/webstore/det
 
 <span class="gatsby-resp-image-wrapper" style="position:relative;display:block;margin-left:auto;margin-right:auto;max-width:765px">[<span class="gatsby-resp-image-background-image" style="padding-bottom:9.934640522875817%;position:relative;bottom:0px;left:0px;background-size:cover;display:block"></span>![PR deployment list](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/static/d16a8f63d7f7ad20701141bbe9190083/8cae0/connect-issue.png "PR deployment list")](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/static/d16a8f63d7f7ad20701141bbe9190083/8cae0/connect-issue.png)</span>
 
-*   **Change status** of the **linked issue** to **validate**
+5. **Change status** of the **linked issue** to **validate**
 
 ### Run tests and compliance scans
 
@@ -88,6 +92,10 @@ _A Jenkins job will run periodically and remove review instances for which the s
 *   It is recommended not to merge at the end of the day or right before the weekend unless necessary.
 *   [Squash your commits](https://github.blog/2016-04-01-squash-your-commits/) and **merge** into **master**
 *   **Delete** pull request branch
+
+> _For more information on how we do code reviews, consult_:
+> - *[VSP Code Review Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/code_review_guidelines.md)*
+> - *[VSA Code Review Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/engineering/code_review_guidelines.md)*
 
 ## Post Pull Request Checklist
    - [ ] Make sure that all the items in the Definition of Done section have been completed
