@@ -2,7 +2,7 @@
 
 When creating forms using the VA form system it can be a little confusing as to how to structure your code so that it will be easy to maintain and easy to understand later. Here is what we reccomend - 
 
-All of our forms begin with a `form.js` file inside of a `/config` folder, this file is intended to house your `schema` and your `uiSchema`. This is how the form generator sets it up and this works fine when you have a simple form, however for a more advanced form we reccomend that you keep this file but also break your `schema` and your `uiSchema` across smaller files so they are easier to maintain. Here is a rough example of what your `form.js` will look like when you have your `schema` and `uiSchema` inside it -
+All of our forms begin with a `form.js` file inside of a `/config` folder, this file is intended to house your `schema` and your `uiSchema`. This is how the form generator sets it up and this works fine when you have a simple form (as in just one chapter or page), however for a more advanced form we recommend that you keep this file but also break your `schema` and your `uiSchema` across smaller files so they are easier to maintain. Here is a rough example of what your `form.js` will look like when you have your `schema` and `uiSchema` inside it -
 
 ```
 import IntroductionPage from '../containers/IntroductionPage';
@@ -83,7 +83,7 @@ export const uiSchema = {
 
 }
 ```
-Then you would import these inside your `index.js` file and export them like this -
+Then you will import these inside your `index.js` file and export them like this -
 
 ```
 import * as veteranInformation from './basic-information/basic-information';
@@ -127,5 +127,71 @@ const formConfig = {
   }
 };
 ```
+Breaking your files up this way keeps the actual page files relatively small as well as keeps your `form.js` file in a state that is much easier to work with.
+
+## Creating a schema in vets-json-schema
+
+Another benefit of breaking up your files like we have above is that creating a schema inside vets-json-schema is much easier. You can simply take each of the schemas inside your page files that look like this -
+
+```
+export const schema = {
+  type: 'object',
+  properties: {
+    ...Lots of schema
+  }
+}
+
+export const uiSchema = {
+
+}
+
+```
+
+and copy the schema into a schema file in vets-json-schema like so -
+
+```
+{
+  "your_chapter_name": {
+    "type": "object"
+    "properties": {
+      ...Lots of schema
+    }
+  }
+}
+
+```
+
+You will do this for each of your chapters and pages.
+
+## Importing from vets-json-schema
+
+Once you have set up a schema in vets-json-schema and are ready to import it into your page files you can create a file inside `/config` that imports your vets-json-schema and then breaks it apart like so -
 
 
+```
+import fullSchema from 'vets-json-schema/dist/YOUR_SCHEMA.json';
+
+const {
+  your_chapter_name,
+} = fullSchema.properties;
+
+export {
+  your_chapter_name,
+}
+
+```
+Then back inside your page level file you can import this schema like this -
+
+```
+import { your_chapter_name } from '../../../your_import_file.js';
+
+export const schema = {
+  type: 'object',
+  properties: your_chapter_name
+}
+
+export const uiSchema = {
+
+}
+
+```
