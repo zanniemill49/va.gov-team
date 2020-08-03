@@ -46,12 +46,16 @@ Information about using our recruiter, Pergean to recruit participants for your 
 
 * When you’re ready to recruit using Perigean, contact Lauren Alexanderson via e-mail or Slack **at least 1 week before you want to start sessions.** Inform her that you intend to do research and include a link to the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md) and [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md). The Conversation Guide must be completed and reviewed prior to recruiting. 
 * Once Lauren has approved your plan, please add the line “Reviewed and approved by Lauren Alexanderson on mm/dd/yyyy” on the bottom of the plan in Github.
-* Because of the nature of working Veterans, it is common that they will not show up for scheduled sessions. Try to schedule between 1.5 and 2 times more sessions than you need so that you can complete sufficient sessions within your desired schedule. Also, consider early morning or evening sessions for fewer no-shows, as Veterans often have full-time jobs.
-* If you'd like buffer time in between user sessions, make sure to state that in your research plan.
-* Make sure to list your whole team and any interested stakeholders in the list of folks you want Perigeon to invite to the user sessions in your research plan. 
-* If you are recruiting stakeholders or VA employees that are working on the other side of the forms, you do not go through Perigeon to recruit. It’s completely acceptable to casually talk to VA employees about your work as long as they aren’t being paid as research subjects.  
+* Make sure to list your whole team and any interested stakeholders in the list of folks you want Perigean to invite to the user sessions in your research plan. 
+* If you are recruiting stakeholders or VA employees that are working on the other side of the forms, you do not go through Perigean to recruit. It’s completely acceptable to casually talk to VA employees about your work as long as they aren’t being paid as research subjects.  
 * As soon as you receive your participant roster from Perigean, double check it against your criteria. If they've missed anything important, reach out via the Slack group Lauren starts for your study so they can recruit additional participants.
 * At the end of each day of research, schedule a “debrief” session where you invite all the observers to share the key takeaways from the sessions. Keep track of these key takeaways.  You need to schedule these sessions, Perigeon will not do that.
+
+### Scheduling Tips
+* Because of the nature of working Veterans, it is common that they will not show up for scheduled sessions. Try to schedule between 1.5 and 2 times more sessions than you need so that you can complete sufficient sessions within your desired schedule. 
+* Consider early morning or evening sessions for fewer no-shows, as Veterans often have full-time jobs.
+* Ask Perigean to schedule 15 minutes on top of however long you estimate the session will take, so you have wiggle room for participants who can't make it on time, or to go over if needed.
+* If you'd like buffer time in between user sessions, make sure to state that in your research plan.
 
 ## <a id="pilot-sessions"></a> Pilot / Test Session
 Run a pilot/test session before your study, including Perigean’s team, so you rehearse process of logging in, get any conversation guide kinks worked out, understand how to hand off mouse controls, and have a participant show their screen. VSP and/or Perigean can help schedule the pilot.
