@@ -9,6 +9,9 @@ For some more in depth technical knowledge, this [Sentry README](https://github.
 # Getting started
 VFS teams will first need to configure the SOCKS proxy in order to access Sentry. The setup details can be found in the [Internal Tools Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md)
 
+## Logging in
+To login to Sentry go to [http://sentry10.vfs.va.gov](http://sentry10.vfs.va.gov) and click on the button that says 'Login with Github'.
+
 ## Creating a New Team
 Each VFS team needs to designate a Sentry administrator and provide the name of this person in the `#vfs-platform-support` Slack channel. Once acknowledged, a VSP engineer will grant access and assign permissions. The Sentry administrator will then perform the following tasks to configure their Sentry team:
 
