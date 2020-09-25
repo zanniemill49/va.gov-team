@@ -20,6 +20,12 @@ Each VFS team needs to designate a Sentry administrator and provide the name of 
 3. Provide a list of ownership rules (paths and urls) that your team wants to monitor for Sentry errors. Examples can be found in the Sentry issue owners [documentation](https://docs.sentry.io/workflow/issue-owners/#configuration).
 4. Provide the list to a VSP engineer in the `#vfs-platform-support` Slack channel. 
 
+## Joining a team
+To join a team, go to [http://sentry10.vfs.va.gov/settings/vsp/teams/](http://sentry10.vfs.va.gov/settings/vsp/teams/). If you are already a member of any teams you will see those listed under the heading 'Your Teams'. Below that is a list of all other available teams. To join one, simply click on the button labeled 'Join Team'. 
+
+## Leaving a team
+To leave a team, go to [http://sentry10.vfs.va.gov/settings/vsp/teams/](http://sentry10.vfs.va.gov/settings/vsp/teams/). Find the team you would like to leave listed under 'Your Teams' and click the button labeled 'Leave Team'.
+
 ## Issue Owners and Alerting Rules
 The “Issue Owners” feature allows developers to reduce noise by directing notifications to specific teams based on a path or URL. VFS teams are responsible to provide VSP with a list of paths and URLs that are of concern to their team. By assigning specific alerting rules, Sentry allows teams to pass issues to the developer who can fix them, faster.
 
