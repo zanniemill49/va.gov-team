@@ -1,22 +1,26 @@
 
 # Accessibility staging review preparation
 
-Teams must conduct their own accessibility testing **before** scheduling a VSP Collaboration Cycle [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review). 
+Teams must conduct their own foundational accessibility testing **before** scheduling a VSP Collaboration Cycle [Staging Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/vsp-collaboration-cycle/vsp-collaboration-cycle.md#staging-review). 
 
 Staging reviews test the [happy path](https://en.wikipedia.org/wiki/Happy_path) through the application or content page(s). This may not catch all accessibility issues, but will ensure basic functionality is accessible. (Accessibility specialists conduct a [more thorough post-launch audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/post-launch-audit-processes.md) when an application is relatively code-stable in production.)
 
 
-## Required accessibility tests
+## Foundational accessibility tests
+
+VFS teams are required to complete the following tests prior to scheduling their staging review:
 
 - [ ] Axe scans in daily development - [read more about the axe browser plugin](#axe-scans-in-daily-development)
 - [ ] Axe scans included in end-to-end (e2e) tests - [read more about e2e tests with axe checks](#axe-scans-in-end-to-end-tests)
 - [ ] Color tests for proper contrast and colorblindness - [read more about contrast and colorblindness](#color-tests)
 - [ ] Content zoomed to 200%, 300%, 400% - [read more about zoomed layouts](#content-resize-check)
 - [ ] Keyboard navigation - [read more about navigating with the keyboard](#keyboard-navigation-check)
+
+## Advanced accessibility tests
+
+Accessibility specialists conduct these advanced tests during both the staging review and post-launch audit. VFS teams who do not have accessibility specialists are welcome to conduct their own advanced testing.
+
 - [ ] Screen reader tests (VoiceOver + Safari or NVDA + Firefox) - [read more about getting started with screen readers](#screen-reader-tests)
-
-## Recommended accessibility tests
-
 - [ ] Axe-coconut scans in daily development - [read more about the axe-coconut experimental plugin](https://www.deque.com/blog/test-leading-edge-accessibility-axe-coconut-axe-core-3-0/)
 - [ ] WAVE tool spot checks - [read more about the WebAIM WAVE tool](https://wave.webaim.org/)
 
