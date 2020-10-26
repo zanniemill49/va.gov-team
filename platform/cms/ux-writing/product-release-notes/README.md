@@ -2,7 +2,6 @@
 
 The CMS team will be putting out regular communications that help both technical and non-technical users understand how ongoing improvements to the CMS will impact their work.
 
-- See the latest release note in the [CMS Product Release Notes Log](https://github.com/department-of-veterans-affairs/va.gov-cms/tree/master/product-release-notes)
 
 ## Background
 
@@ -47,7 +46,7 @@ The CMS team will be putting out regular communications that help both technical
 * 🧹 Best done right when the ticket is created, such as in planning or grooming
 * 📎 Product manager and UX writer (Kevin + Rachel) will review flagged items weekly
 * 💎 UX writer may follow up for details after item is demoed
-* ⛵️ Release notes are posted in [#cms-support](https://dsva.slack.com/channels/cms-support)
+* ⛵️ Release notes are posted in [#cms-support](https://dsva.slack.com/channels/cms-support) and the [CMS Help Center](https://prod.cms.va.gov/help/support/release-notes)
 
 ## Editorial process
 
