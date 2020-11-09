@@ -30,7 +30,7 @@ Thanks for joining us today! My name is Liani and I also have some colleagues on
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about an 45-minutes** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic. And we will *not* be on the video call for some of it. I'll explain more about that shortly.
+- **This entire session should take about 45-minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic. And we will *not* be on the video call for some of it. I'll explain more about that shortly.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet developers’ needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record the screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
@@ -40,35 +40,42 @@ Before we start, a few things I want to mention:
 
 ## Pre-activity interview: Evaluation of current developer documentation
 
-- Before we get started with the activity, I have a few questions about our current platform documentation.  Are you familiar with it?
+Evaluation of current developer documentation:
 
-- What has been their experience working with platform developer documentation so far? 
+- Before we get started with the activity, I have a few questions about our current platform documentation.  Are you familiar with it?
+- What has your experience so far been like, working with platform developer documentation? 
 - When did you last reference the documentation for your work?
 - What were you working on? 
 - Was the documentation useful? 
 - (If they were able to find relevant documentation) How did you find it? (i.e., Did they have to ask someone else for a link or did they find it on their own) 
 
-- Do you feel like you know what Platform Engineers are working on and how it impacts your work? How would find that information? What information would be useful to know? How/where would they expect to receive that info? (e.g., Slack, release notes, announcement in a meeting, newsletter, etc.)
+Evaluation of current developer progress content strategy:
+
+- Do you feel like you know what Platform Engineers are working on and how it impacts your work?
+  - Do you feel like having that knowledge impacts you?
+- How would you find that information? What information would be useful to know? 
+- How/where would you expect to receive that info? (e.g., Slack, release notes, announcement in a meeting, newsletter, etc.)
 
 Alright! Thank you so much for that input, that is really helpful for us to hear. Now we're going to transition to the activity and I'll start by sharing my screen and going over the instructions.
 
 
 ## Tree test activity: Coherence check on experimental IA
 
-- Can you see my screen okay?
-- So what you are looking at here is a Google doc that has a series common examples of form components and instructions on how to fit all the parts together. As the title suggests, we're considering this a "quick reference guide" for common problems developers need to solve when building forms on VA.gov. We expect that this quick reference guide will eventually be paired with other documentation such as an introduction to the forms library, but today we're hoping to get your feedback on the approach we're taking with the quick reference guide. 
-- In addition, you'll notice that throughout the Google doc, there are comments in the sidebar providing an _additional_ layer of instructions and asking you questions and asking for your feedback about the document.
-- What we're asking you to do for the next 30 minutes is to follow the instructions in the [blue box] and in the comments throughout this document. We'll end the video call and let you do this asynchronously on your own, and then after 30 minutes we'll come back together and wrap up. If you get stuck or run into trouble, that is totally okay! There's nothing you can do wrong here, and anything you experience is helpful for us to improve these documents. However, if you get _really_ stuck and need to "phone a friend," we have set up this DM in Slack with you - please send us a message there and we can come back together. 
-- I'll keep a timer for 30 minutes, and then re-open our Zoom link so that we can ask you a couple more questions and wrap up. I will send the zoom link to our DM after 30 minutes have passed. 
-- If you finish before 30 minutes is up, send a message to that same group DM and we can re-convene a little early. And if you don't finish all of the tasks in this time period, that is also totally okay. We want to be respectful of your time and not keep you longer than our allotted hour. 
-- Do you have any questions so far?
-- Okay, let's look at the first task together to make sure we're all on the same page.
+_Screenshare the [non-live version](https://adhoc.optimalworkshop.com/treejack/6v04p01o/instructions) of study._
 
-_Scroll down to first task_
+This is the 2nd, activity portion of this session. Can you see my screen okay?  In this portion, we are essentially conducting a coherence check of our experimental content structure.  
 
-_Read task aloud_
+_Click "continue"._
 
-_Demonstrate adding a comment with the response_
+We will give you a few tasks, like shown.
+
+_Click "Start task"._
+
+For each task, we would like you to navigate this menu of content, to locate where you would go to find information to complete the task.  If you want to explore something else in the menu, you can go up a level by clicking the parent level.  To complete the task, you would clicking the green button.
+
+There are eight tasks total.
+
+I'm going to send you a tailored link in chat.
 
 _Send participant the link_
 
