@@ -75,7 +75,7 @@ _Send participant the [live study](https://adhoc.optimalworkshop.com/treejack/6v
 - Can you access the link? _Confirm they can get into the doc_
 - What questions do you have before we let you get to it?
 
-Okay, unless we hear from you in the direct message, we'll see you in about 15 minutes.
+Okay, unless we hear from you in the direct message, we'll see you in about 15 minutes.  If you end before we come back, shoot us a DM!
 
 _End the zoom call_
 
