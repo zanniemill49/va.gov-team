@@ -18,7 +18,7 @@
 - [ ] Make sure there is a notes doc for a given participant (copy of this doc is sufficient)
 - [ ] Set up group DM in Slack with the participant, moderator, observers, and notetakers
 
-## Intro - 5 minutes
+## Intro (5 minutes)
 
 Thanks for joining us today! My name is Liani and I also have some colleagues on the line observing and taking notes. We are migrating Platform documentation from the va.gov-team repo to Confluence, starting with developer documentation.  A big part of this work is figuring out how to logically organize the content.  This session will be split into 3 parts: 
 
@@ -36,7 +36,7 @@ Before we start, I want mention a few things:
 *Start recording.*
 - **I have started recording. I'd like to confirm: Are you comfortable if I record the screen the audio as we talk today?**
 
-## Pre-activity interview: Evaluation of current developer documentation
+## Pre-activity interview: Evaluation of current developer documentation (10 minutes)
 
 Evaluation of current developer documentation:
 
@@ -56,7 +56,7 @@ Evaluation of current VSP Dev progress content strategy:
 Alright! Thank you so much for that input, that is really helpful for us to hear. Now we're going to transition to the activity and I'll start by sharing my screen and going over the instructions.
 
 
-## Tree test activity: Coherence check on experimental IA
+## Tree test activity: Coherence check on experimental IA (15 minutes)
 
 _Screenshare the [non-live version](https://adhoc.optimalworkshop.com/treejack/6v04p01o/instructions) of study._
 
@@ -90,7 +90,7 @@ _Monitor Slack DM to field for questions or messages from the participant_
 _After 15 minutes, send message to group DM with zoom link prompting everyone to re-join the Zoom call._
 
 
-## Post-activity interview
+## Post-activity interview (10 minutes)
 
 Okay, we are back! I am going to begin the recording again.
 
