@@ -74,16 +74,12 @@ Recruit for 8 fulfilled sessions (showing each user versions A & B) using the fo
 * At least 1 person of color
 * At least 2 participants 35 or under and 1 participant over 55
 * At least 1 participant who currently receives VA healthcare
-* At least one person that does not have a college degree (to include enlisted Vets)
-* At least one person that has a college degree (to include of officer Vets)
-* At least one person who lives in a rural or remote area
-* At least one person who lives in a major metropolitan area
 * At least one person with a disability rating of 70% or greater
 * At least one person with an identified cognitive consideration of PTSD or TBI
 
 ### Recruitment requirements
 * All participants must use a mobile device.
-* The participants have Zoom downloaded prior to the session
+* The participants have Zoom downloaded **on their phone** prior to the session
 * The participants know how to screen-share.
 
 We will not be able to accommodate non-sighted users due to the prototype technology.
@@ -107,8 +103,8 @@ Mobile Pilot Sessions (1 total sessions, 2 mobile, A vs B): Day, November TBD | 
 * Project point of contact: Samara Strauss
 * Participant(s) for pilot test: TBD
 * Note-takers: Perigean
-* Observers: Matt Shea (matt.shea@adhocteam.us), Samara Strauss (Samara.Strauss@va.gov), Erik Hansen (erik@adhocteam.us), Lihan Li (lihan@adhocteam.us), Shawna Hein (shawna@adhocteam.us), Sandra Hallie (shallie@governmentcio.com), Ryan Thurlwell (ryan.thurlwell@va.gov)
-* 
+* Observers: Matt Shea (matt.shea@adhocteam.us), Samara Strauss (Samara.Strauss@va.gov), Erik Hansen (erik@adhocteam.us), Lihan Li (lihan@adhocteam.us), Shawna Hein (shawna@adhocteam.us), Sandra Hallie (shallie@governmentcio.com), Ryan Thurlwell (ryan.thurlwell@va.gov), Bridget Hapner (bridget@adhocteam.us), Meli Manak (meli.manak@adhocteam.us)
+ 
 ## Resources
 * [Project Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/README.md)
 * [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/identity-personalization/my-va/2.0-redesign/product/Research/MyVA-conversation-guide.md)
