@@ -1,22 +1,19 @@
 # Conversation Guide: Content & IA Team - Confluence Pilot, 2020 Q4
 
-## Moderator logistics
+## Moderator logistics (session prep)
 
-*Use [#vsp-research](https://dsva.slack.com/archives/C013Y167YTB) in Slack for real-time feedback from observers.*
+A few days before:
+- [ ] Assesmble the session team (scrum team, note takers) and direct them to [#vsp-research](https://dsva.slack.com/archives/C013Y167YTB)
+- [ ] Create a notes document (pared down copy of this doc) and share it in #vsp-research
+- [ ] Send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers.  Make sure to direct people to #vsp-research, NOT #feedback-backchannel.
 
-*Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers.*
-
-*In the Attendees section, make sure everyone except the participant is on mute.*
-
-*In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked.*
-
-*Check your screensharing setup.*
+Right before:
+- [ ] Set up group DM in Slack with the participant, moderator, observers, and notetakers
+- [ ] In the Attendees section, make sure everyone except the participant is on mute.
+- [ ] In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked.
+- [ ] Check your screensharing setup.
 
 *When the participant is ready, begin the session with the following intro.*
-
-### Project-specific setup
-- [ ] Make sure there is a notes doc for a given participant (copy of this doc is sufficient)
-- [ ] Set up group DM in Slack with the participant, moderator, observers, and notetakers
 
 ## Intro (5 minutes)
 
