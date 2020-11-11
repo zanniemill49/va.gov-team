@@ -70,7 +70,7 @@ We will give you a few tasks, like shown.  Since there are a number of tasks, it
 
 We're going to send you a tailored link in chat.
 
-_Send participant the link_
+_Send participant the [live study](https://adhoc.optimalworkshop.com/treejack/6v04p01o) <- don't go clicking around, since the study will store data._
 
 - Can you access the link? _Confirm they can get into the doc_
 - What questions do you have before we let you get to it?
