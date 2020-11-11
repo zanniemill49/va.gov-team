@@ -15,13 +15,15 @@ Right before:
 
 *When the participant is ready, begin the session with the following intro.*
 
-## Intro (5 minutes)
+## Intro (<5 minutes)
 
-Thanks for joining us today! My name is Liani and I also have some colleagues on the line observing and taking notes. We are migrating Platform documentation from the va.gov-team repo to Confluence, starting with developer documentation.  A big part of this work is figuring out how to logically organize the content.  This session will be split into 3 parts: 
+Thanks for joining us today! My name is Liani. I have some colleagues on the line observing and taking notes. We are migrating Platform documentation from the va.gov-team repo to Confluence, starting with developer documentation.  A big part of this work is figuring out how to logically organize the content - which is where you, as an SME, come in!
+
+This session will be split into 3 parts: 
 
 1. A conversation about the Platform's current developer documentation, followed by
-2. A short activity that'll help us do a coherence check on our experimental structure, and finally
-3. We'd love to hear your thoughts on the what we were showing in the activity.
+2. A short activity that'll help us do a coherence check on our experimental structure.  In this part, you'll want some way to take brief notes, so that - 3rd part -
+3. We can chat! We'd love to hear your thoughts on the what we were showing in the activity.
 
 Before we start, I want mention a few things:
 
@@ -38,8 +40,7 @@ Before we start, I want mention a few things:
 Evaluation of current developer documentation:
 
 - Before we start the activity, I have a few questions about the current platform documentation.  Are you familiar with it?
-- What has your experience so far been like, working with platform developer documentation? 
-- When did you last reference the documentation for your work?  (aka, what were you working on?)
+- When did you last reference the documentation for your work - if at all?  (aka, what were you working on?)
 - Was the documentation useful? (also, did you find what you needed in another way?)
 - (If they were able to find relevant documentation) How did you find it? (i.e., Did they have to ask someone else for a link or did they find it on their own) 
 
@@ -57,26 +58,24 @@ Alright! Thank you so much for that input, that is really helpful for us to hear
 
 _Screenshare the [non-live version](https://adhoc.optimalworkshop.com/treejack/6v04p01o/instructions) of study._
 
-This is the 2nd, activity portion of this session. Can you see my screen okay?  In this portion, we are essentially conducting a coherence check of our experimental content structure.  
+This is the 2nd, activity portion of this session. Can you see my screen okay?  In this portion, we are essentially conducting a coherence check of our experimental content structure.
 
 _Click "continue"._
 
-We will give you a few tasks, like shown.
+There will be instructions on what the activity is, and how to navigate.  
 
-_Click "Start task"._
+_Click "continue"._
 
-For each task, we would like you to navigate this menu of content, to locate where you would go to find information to complete the task.  If you want to explore something else in the menu, you can go up a level by clicking the parent level.  To complete the task, you would clicking the green button.
+We will give you a few tasks, like shown.  Since there are a number of tasks, it would be helpful if you had some way of taking notes so we can chat about the activity after.
 
-There are eight tasks total.
-
-I'm going to send you a tailored link in chat.
+We're going to send you a tailored link in chat.
 
 _Send participant the link_
 
-- Can you access the document? _Confirm they can get into the doc_
+- Can you access the link? _Confirm they can get into the doc_
 - What questions do you have before we let you get to it?
 
-Okay, unless we hear from you in the direct message, we'll see you in 15 minutes.
+Okay, unless we hear from you in the direct message, we'll see you in about 15 minutes.
 
 _End the zoom call_
 
@@ -96,7 +95,7 @@ _Begin recording again_
 We just have a few more questions for you to wrap us up.
 
 - What are your overall thoughts on how information was organized? 
-- Were there any tasks that you struggled with more than others?  (Probe: tell me more / tell me why)
+- Were there any tasks that you struggled with more than others? AND where there any tasks that were particularly easy?  (Probe: tell me more / tell me why)
 - Do you have recommendations or suggestions on how to change the navigation you used?
 
 
