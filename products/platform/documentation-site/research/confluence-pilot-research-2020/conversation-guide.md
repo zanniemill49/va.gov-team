@@ -75,15 +75,15 @@ _Send participant the [live study](https://adhoc.optimalworkshop.com/treejack/6v
 - Can you access the link? _Confirm they can get into the doc_
 - What questions do you have before we let you get to it?
 
-Okay, unless we hear from you in the direct message, we'll see you in about 15 minutes.  If you end before we come back, shoot us a DM!
+Okay, unless we hear from you in the Zoom chat, we'll see you in about 15 minutes.  If you end before we come back, shoot us a nessage in the Zoom chat!
 
-_End the zoom call_
+_Start 15 minute timer._
 
-_Start 15 minute timer_
+_Turn off video._
 
-_Monitor Slack DM to field for questions or messages from the participant_
+_Monitor Zoom chat to field for questions or messages from the participant._
 
-_After 15 minutes, send message to group DM with zoom link prompting everyone to re-join the Zoom call._
+_After 15 minutes, turn Zoom video back on._
 
 
 ## Post-activity interview (10 minutes)
