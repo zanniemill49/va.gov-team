@@ -11,7 +11,9 @@ Right before:
 - [ ] Set up group DM in Slack with the participant, moderator, observers, and notetakers
 - [ ] In the Attendees section, make sure everyone except the participant is on mute.
 - [ ] In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked.
-- [ ] Check your screensharing setup.
+- [ ] Check your screensharing setup.  Have the following links handy: 
+  - [ ] [The Home Page MVP](https://department-of-veterans-affairs.github.io/va.gov-team/)
+  - [ ] [va.gov-team /platform directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform)
 
 *When the participant is ready, begin the session with the following intro.*
 
@@ -56,15 +58,9 @@ Alright! Thank you so much for that input, that is really helpful for us to hear
 
 ## Tree test activity: Coherence check on experimental IA (15 minutes)
 
-_Screenshare the [non-live version](https://adhoc.optimalworkshop.com/treejack/6v04p01o/instructions) of study._
-
-This is the 2nd, activity portion of this session. Can you see my screen okay?  In this portion, we are essentially conducting a coherence check of our experimental content structure.
-
-_Click "continue"._
+This is the 2nd, activity portion of this session. Can you see my screen okay?  In this portion, we are essentially conducting a coherence check of our experimental content structure.  We'll leave you alone in a bit, aka you don't have to screenshare and we'll all turn off our videos.
 
 There will be instructions on what the activity is, and how to navigate.  
-
-_Click "continue"._
 
 We will give you a few tasks, like shown.  Since there are a number of tasks, it would be helpful if you had some way of taking notes so we can chat about the activity after.
 
@@ -75,15 +71,15 @@ _Send participant the [live study](https://adhoc.optimalworkshop.com/treejack/6v
 - Can you access the link? _Confirm they can get into the doc_
 - What questions do you have before we let you get to it?
 
-Okay, unless we hear from you in the Zoom chat, we'll see you in about 15 minutes.  If you end before we come back, shoot us a nessage in the Zoom chat!
+Okay, unless we hear from you in the Zoom chat, we'll see you in about 12 minutes.  If you end before we come back, shoot us a nessage in the Zoom chat!
 
-_Start 15 minute timer._
+_Start 12 minute timer._
 
 _Turn off video._
 
 _Monitor Zoom chat to field for questions or messages from the participant._
 
-_After 15 minutes, turn Zoom video back on._
+_After 12 minutes, turn Zoom video back on._
 
 
 ## Post-activity interview (10 minutes)
