@@ -2,7 +2,6 @@
 
 ## Phase I: Test Release
 
-### Planning:
 - Target date: Jan 4, 2020 (dependent upon timeline for Operations Team's pipeline bug fix)
 - Desired number of users: caregiver VFS team, and facilities VFS team
 - How you'll conduct the testing: embed with their engineers and PMs to configure the alerts, observe challenging or confusing areas in set up, and in access to and ability to take action from the Slack and GitHub alerts
