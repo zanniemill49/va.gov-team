@@ -1,0 +1,52 @@
+platform/testing/end-to-end/local-cross-platform-cypress-testing-with-browserstack.md
+
+Local Cross-Platform e2e Cypress Test Execution with BrowserStack
+BrowserStack allows you to run your Cypress tests locally via the BrowserStack Cypress CLI on over 2000 real devices and browsers. Your tests are uploaded to BrowserStack where they are executed, and the results are displayed in the CLI and in the BrowserStack Automate Dashboard app.
+
+This document details the steps necessary to get BrowserStack setup locally so you can quickly start running your vets-website Cypress tests against the platforms we support. It also includes a list of helpful resources.
+
+Getting Started
+Step 1: Install the BrowserStack Cypress CLI
+Install the CLI via npm:
+
+npm install -g browserstack-cypress-cli
+Step 2: Configure browserstack.json
+Create a file named browserstack.json in the root directory of your vets-website installation using the following template.
+
+This template is configured with the platforms (browser/OS combos) and the Cypress version you should run your tests against. All you need to do is replace the values for the username and access_key keys with your credentials.
+
+Please note: The VA is currently subscribed to a 5 parallel running thread plan. At any time, we can execute a maximum of 10 tests on BrowserStack (5 Running + 5 Queued). Any further tests triggered will be terminated with the exception All parallel tests are currently in use including Queued Tests'.
+
+Step 3: Setup Local Testing
+Download the Local binary
+Unzip BrowserStackLocal-darwin-x64.zip and put the BrowserStackLocal executable in the directory of your choosing
+cd into the directory
+Enter the following command (replace <your_access_key> with your access_key) to establish a Local Testing connection:
+./BrowserStackLocal --key <your_access_key>
+If the connection is successful you will see messages like the following logged to your console:
+
+Thu Feb 04 2021 10:43:48 GMT-0500 (Eastern Standard Time) -- BrowserStackLocal v8.2
+
+Thu Feb 04 2021 10:43:49 GMT-0500 (Eastern Standard Time) -- [WARNING] Detected instance of BrowserStackLocal Application, running in onlyAutomate mode to avoid port clash
+Thu Feb 04 2021 10:43:49 GMT-0500 (Eastern Standard Time) -- Skipping initialisation of configuration console because: port already in use by another Binary
+Thu Feb 04 2021 10:43:50 GMT-0500 (Eastern Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Thu Feb 04 2021 10:43:50 GMT-0500 (Eastern Standard Time) -- Press Ctrl-C to exit
+Step 4: Run Your Tests
+To run your tests, enter the following command:
+
+browserstack-cypress run --sync
+You can also use the --spec param to for specific spec files:
+
+# Run a single spec instead of everything
+browserstack-cypress run --sync --specs "cypress/integration/examples/actions.spec.js"
+
+# Run all tests matching the regex / glob
+browserstack-cypress run --sync --specs "cypress/integration/login/**/*"
+
+# Run multiple spec files
+browserstack-cypress run --sync --specs "cypress/integration/examples/actions.spec.js,cypress/integration/examples/files.spec.js"
+For a list of other CLI commands and arguments see the BrowserStack CLI reference. https://www.browserstack.com/docs/automate/cypress/cli-reference
+
+Resources
+List to come...
