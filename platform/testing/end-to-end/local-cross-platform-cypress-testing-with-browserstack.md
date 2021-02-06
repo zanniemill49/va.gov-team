@@ -16,9 +16,13 @@ npm install -g browserstack-cypress-cli
 
 ### Step 2: Configure `browserstack.json`
 
-Create a file named `browserstack.json` in the root directory of your `vets-website` installation using the following template.
+Run the following command to generate a sample `browserstack.json` file in the root directory of your `vets-website` installation:
 
-This template is configured with the platforms (browser/OS combos) and the Cypress version you should run your tests against. All you need to do is replace the values for the `username` and `access_key` keys with your credentials.
+```
+browserstack-cypress init
+```
+
+Replace the contents of the sample `browserstack.json` file with the following template that is configured with the platforms (browser/OS combos) and the Cypress version you should run your tests against. All you need to do is replace the values for the `username` and `access_key` keys with your credentials.
 
 ```javascript
 {
