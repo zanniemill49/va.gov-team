@@ -126,7 +126,7 @@ To run your tests, enter the following command:
 browserstack-cypress run --sync
 ```
 
-You can also use the `--spec` param to for specific spec files:
+You can also use the `--spec` param to run specific spec files:
 
 ```
 # Run a single spec instead of everything
