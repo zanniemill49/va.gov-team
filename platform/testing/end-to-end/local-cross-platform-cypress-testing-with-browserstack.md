@@ -70,7 +70,13 @@ Replace the contents of the sample `browserstack.json` file with the following t
                 "latest",
                 "latest-1"
             ]
-        }
+        },
+        "npm_dependencies": {
+          "@testing-library/cypress": "^7.0.1",
+          "cypress-axe": "^0.12.0",
+          "cypress-plugin-tab": "^1.0.5"
+        },
+        "package_config_options": {}
     ],
     "run_settings": {
         "cypress_config_file": "./config/cypress.json",
