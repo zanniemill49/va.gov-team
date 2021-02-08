@@ -40,14 +40,6 @@ Replace the contents of the sample `browserstack.json` file with the following t
             ]
         },
         {
-            "browser": "firefox",
-            "os": "Windows 10",
-            "versions": [
-                "latest",
-                "latest-1"
-            ]
-        },
-        {
             "browser": "edge",
             "os": "Windows 10",
             "versions": [
@@ -56,21 +48,21 @@ Replace the contents of the sample `browserstack.json` file with the following t
             ]
         },
         {
-            "browser": "chrome",
-            "os": "OS X Mojave",
+            "browser": "firefox",
+            "os": "Windows 10",
             "versions": [
                 "latest",
                 "latest-1"
             ]
         },
         {
-            "browser": "firefox",
-            "os": "OS X Mojave",
+            "browser": "chrome",
+            "os": "OS X Catalina",
             "versions": [
                 "latest",
                 "latest-1"
             ]
-        },
+        }
         "npm_dependencies": {
           "@testing-library/cypress": "^7.0.1",
           "cypress-axe": "^0.12.0",
