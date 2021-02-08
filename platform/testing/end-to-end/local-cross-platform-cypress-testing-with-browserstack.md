@@ -131,9 +131,8 @@ browserstack-cypress run --sync --specs "cypress/integration/login/**/*"
 browserstack-cypress run --sync --specs "cypress/integration/examples/actions.spec.js,cypress/integration/examples/files.spec.js"
 ```
 
-For a list of other CLI commands and arguments see the BrowserStack CLI reference.
-https://www.browserstack.com/docs/automate/cypress/cli-reference
-
 ## Resources
 
-List to come...
+- [Cypress/Browserstack Quickstart](https://www.browserstack.com/docs/automate/cypress)
+- [BrowserStack CLI Reference](https://www.browserstack.com/docs/automate/cypress/cli-reference)
+- [Browsers for Cypress Testing](https://www.browserstack.com/list-of-browsers-and-platforms/cypress_testing)
