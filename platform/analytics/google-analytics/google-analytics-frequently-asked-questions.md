@@ -45,6 +45,7 @@
   - [Why do I not have the same tracking on eBenefits or MHV?](#why-do-i-not-have-the-same-tracking-on-ebenefits-or-mhv)
   - [What is DOMO?](#what-is-domo)
   - [How do we get a product success tool built for our team?](#how-do-we-get-a-product-success-tool-built-for-our-team) 
+  - [Why dont BigQuery user counts match Google Analytics?](#why-dont-BigQuery-user-counts-match-Google-Analytics)
 
 ### What is a "dimension" in Google Analytics? 
 A dimension is the attribute of visitation to VA.gov. The dimension chosen is what ultimately gives proper context to the metric chosen. Each row of a Google Analytics report will more often than not include at least 1 dimension. 
@@ -145,3 +146,8 @@ DOMO is a business intelligence tool purchased by the Analytics & Insights team 
 
 ### How do we get a Product Success Tool built for our team? 
 Please submit a request for the Product Success tool [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/product-success-tool-request.md). Before submitting, we please ask to have your teams KPIs established and close-to final product. Our team is here to assist with any questions you may have around KPI setting. 
+
+### Why dont BigQuery user counts match Google Analytics? 
+Google relies heavily on pre-aggregated tables in order to serve you data in a timely, efficient manner. This causes a small discrepancy between the non-aggregated hit-level data BigQuery provides, and the pre-aggreagted GA data.  
+
+If you’re finding a small discrepancy between GA users vs. BQ users, just know that you’re probably comparing your perfect BigQuery user calculation to a close, but not exact, approximation in GA. And if you want the warm feeling of reassurance, export an unsampled report in GA and you’ll see that the number do in fact match.
