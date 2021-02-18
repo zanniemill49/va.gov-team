@@ -26,62 +26,60 @@ Replace the contents of the sample `browserstack.json` file with the following t
 
 ```javascript
 {
-    "auth": {
-        "username": "<your_username>",
-        "access_key": "<your_access_key>"
+  "auth": {
+    "username": "<your_username>",
+    "access_key": "<your_access_key>"
+  },
+  "browsers": [
+    {
+      "browser": "chrome",
+      "os": "Windows 10",
+      "versions": [
+        "latest",
+        "latest-1"
+      ]
     },
-    "browsers": [
-        {
-            "browser": "chrome",
-            "os": "Windows 10",
-            "versions": [
-                "latest",
-                "latest-1"
-            ]
-        },
-        {
-            "browser": "edge",
-            "os": "Windows 10",
-            "versions": [
-                "latest",
-                "latest-1"
-            ]
-        },
-        {
-            "browser": "firefox",
-            "os": "Windows 10",
-            "versions": [
-                "latest",
-                "latest-1"
-            ]
-        },
-        {
-            "browser": "chrome",
-            "os": "OS X Catalina",
-            "versions": [
-                "latest",
-                "latest-1"
-            ]
-        }
-        "npm_dependencies": {
-          "@testing-library/cypress": "^7.0.1",
-          "cypress-axe": "^0.12.0",
-          "cypress-plugin-tab": "^1.0.5"
-        },
-        "package_config_options": {}
-    ],
-    "run_settings": {
-        "cypress_config_file": "./config/cypress.json",
-        "project_name": "Vets Website",
-        "cypress_version": "6",
-        "parallels": 5,
-        "headless": true
+    {
+      "browser": "edge",
+      "os": "Windows 10",
+      "versions": [
+        "latest",
+        "latest-1"
+      ]
     },
-    "connection_settings": {
-        "local": true,
-        "local_identifier": null
+    {
+      "browser": "firefox",
+      "os": "Windows 10",
+      "versions": [
+        "latest",
+        "latest-1"
+      ]
     },
-    "disable_usage_reporting": false
+    {
+      "browser": "chrome",
+      "os": "OS X Catalina",
+      "versions": [
+        "latest",
+        "latest-1"
+      ]
+    }
+  ],
+  "run_settings": {
+    "cypress_config_file": "./cypress.json",
+    "cypress_version": "6",
+    "project_name": "Vets Website",
+    "parallels": 5,
+    "npm_dependencies": {
+      "@testing-library/cypress": "^7.0.1",
+      "cypress-axe": "^0.12.0",
+      "cypress-plugin-tab": "^1.0.5"
+    }
+  },
+  "connection_settings": {
+    "local": true,
+    "local_identifier": null
+  },
+  "disable_usage_reporting": false
 }
 ```
 
