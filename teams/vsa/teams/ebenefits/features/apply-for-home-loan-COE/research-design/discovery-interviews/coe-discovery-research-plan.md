@@ -8,7 +8,7 @@
 #### Background
 A VA-issued Certificate of Eligibility (COE) is needed by Veterans, service members and surviving spouses in order to get a VA-backed home loan or Native American Direct Loan (NADL). The requirements for obtaining VA loans are service-based, and a COE confirms for lenders that an applicant qualifies for this benefit. Specific individual requirements depend on service dates and details.
 
-The Certificate of Eligibility feature (VA From 26-1880) is being migrated from eBenefits to VA.gov in an effort to consolidate Veteran self-service tools -- and to susnset the eBenefits site. Core functionality of the exiting feature will be preserved; other features may be added in subsequent iterations.
+The Certificate of Eligibility feature (VA From 26-1880) is being migrated from eBenefits to VA.gov in an effort to consolidate Veteran self-service tools -- and to sunset the eBenefits site. Core functionality of the exiting feature will be preserved; other features may be added in subsequent iterations.
 
 ### Goals
 This study has several goals. We want to determine where a COE tool would fit into the overall user journey, and what are the pain-points in the current process. We need to assess user expectations regarding functionality, and decide what supporting content and features would improve the tool. We need to understand what degree of acceptance there is for a web-based self-service COE tool, and what we can do to increase user adoption.
@@ -19,34 +19,39 @@ This study has several goals. We want to determine where a COE tool would fit in
 - What processes did users experienced when applying for a VA-backed loan?
 - How did users obtain a COEs?
 - What went well in the COE/loan processes?
-- What problems did patrticipants encounter in applying for VA-backed loans?
+- What problems did participants encounter in applying for VA-backed loans?
 - What new features, information or tools would be beneficial?
 - Would participants use VA.gov for information, tools or applications in the future?
 
 #### Hypotheses
 - Participants initially heard about VA loan benefits via word-of-mouth
 - Participants expected their lenders to know about VA-backed loans
-- Participants gernerally followed their lenders leads through the loan process
+- Participants generally followed their lenders' leads through the loan process
 - Participants received COEs either via a VA office or through their lender
 - Participants found the VA-backed loan process generally confusing
 - Process stumbling blocks arose around documentation issues, however COE was likely fairly straight-forward
-- Participants will want a simple, easy to follow, bullet-ized process flow with direct links (email, chat, phone numbers) to VA problem-solvers
+- Participants will want a simple, easy to follow, bulletized process flow with direct links (email, chat, phone numbers) to VA problem-solvers
 - Participants would use VA.gov if it provided easy to follow guidance and direct avenues to address process issues
 
 ### Method
-We will engage in moderated discovery interviews conducted remotely. Calls will be run using Zoom, but audio only -- there will be no video component or screen-sharing. Participants with experience applying for VA-backed loans will be recruited by Perigean. Sessions will be recorded (with permission), and observers and notetakers may be in attendance.
+We will engage in moderated discovery interviews conducted remotely. Calls will be run using Zoom, but audio only -- there will be no video component or screen-sharing. Participants with experience applying for VA-backed loans will be recruited by Perigean. Sessions will be recorded (with permission), and observers may be in attendance.
 
 #### The process
 - There will be a quick warm-up and introduction to the discovery interview process
 - The participant will be guided through a series of open-ended questions
 - There will be a quick Q/A and wrap-up
 
+#### Notetaking
+We request that Perigean take notes -- verbatim if possible --  during interviews.
+
 ### Participants and recruitment
 
 Recruit for 5 fulfilled sessions using the following criteria:
 
+**Principal participant criteria/question**
+- Have you applied for a VA direct loan, VA-backed loan, or a Native American Direct Loan (NADL)? (pass = yes)
+
 **Must have for participants**
-- Participants must have experience with VA-backed home loans
 - At least 1 woman of color
 - At least 1 participant 55 or older
 - At least one person that does not have a college degree (to include enlisted Veterans)
@@ -61,14 +66,13 @@ Recruit for 5 fulfilled sessions using the following criteria:
 - At least one person who lives in a rural or remote area
 
 **Recruitment requirements**
-- The participants have Zoom downloaded prior to the session
-- The participants know how to screenshare
+- The participants have Zoom downloaded prior to the session or
+- The participants can call into the Zoom number
 
-### When
+### Session scheduling
 
-#### Testing sessions
-
-**Pilot session** | Date/time TBD
+#### Pilot session
+`| Date/time TBD |`
 
 #### eBenefits Team Availability
 
@@ -76,11 +80,11 @@ Please allow 30 minutes between sessions.
 
 | Dates | Times (EDT) |
 | --- | --- |
-| March X, 2021 | 9 AM to 5 PM |
-| March X, 2021  | 9 AM to noon |
-| March X, 2021  | 9 AM to noon |
-| March X, 2021  | 9 AM to 5 PM |
-| March X, 2021  | 9 AM to 5 PM |
+| March 2, 2021  | 9 AM to 5 PM |
+| March 3, 2021  | 9 AM to noon |
+| March 4, 2021  | 9 AM to 5 PM |
+| March 5, 2021  | 9 AM to 5 PM |
+| March 8, 2021 | 9 AM to 5 PM |
 
 ### Team members
 - James Adams | jadams@governmentcio.com -- Moderator, designer
