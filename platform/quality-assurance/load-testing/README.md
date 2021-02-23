@@ -15,5 +15,4 @@ Each VFS team is expected to create or modify load tests appropriately as they w
 
 ## Help
 Load testing support is provided by:  
-- **Peter Hill**, @Peter Hill on Slack
-- [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support) on Slack
+- [Testing Tools Team](https://dsva.slack.com/channels/vsp-testing-tools-team) on Slack

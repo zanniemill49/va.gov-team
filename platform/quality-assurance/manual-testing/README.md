@@ -2,7 +2,7 @@
 In this folder, you'll find information specific to how manual testing ideally functions on the VSP.
 
 ## Communication channels
-- Slack channel: [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)
+- Slack channel: [#vsp-testing-tools-team](https://dsva.slack.com/channels/vsp-testing-tools-team)
 
 # Table of Contents
 1. [**Manual Functional Testing**](manual-functional-testing.md)

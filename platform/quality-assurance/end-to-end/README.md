@@ -18,6 +18,7 @@ Frontend developers building products on VA.gov write Cypress tests alongside th
 - [Cypress 6.2.1 Upgrade Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/testing/end-to-end/cypress-upgrade-guide.md)
 - [Nightwatch-to-Cypress Migration Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/testing/end-to-end/cypress-migration-guide.md)
 - [Cypress Viewport Updater Bot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/testing/end-to-end/automatic-cypress-viewport-updater.md)
+- [Cypress-TestRail-Reporter Plugin Use](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/end-to-end/cypress-testrail-reporter/cypress-testrail-reporter-config.md)
 
 ------
 
