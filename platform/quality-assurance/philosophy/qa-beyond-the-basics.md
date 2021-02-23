@@ -8,7 +8,7 @@
     - End of sprint testing
     - Regression testing during next sprint
 - Communicate with developers to assess risk to any part of the VA site by implementation of new feature
-- Regression moke tests after release to staging environments
+- Regression smoke tests after release to staging environments
     - Go beyond dead link checker
     - Automate regression tests of the VA site -- in case a conflict with unknown dependencies triggered defects on parts of the site unrelated to the release
 - Either

@@ -13,5 +13,6 @@ The Quality Assurance practice area points of contact are:
 # Table of Contents
 1. [**Process** for designing and executing a QA test plan](process.md)
 1. [**Tools** for practicing the prescribed QA process successfully](tools.md)
+1. [**Record** a test incident during QA activities](record-test-incident.md)
 1. [**Artifacts** you should have at the completion of QA activities](qa-artifacts.md)
 1. [**Help** for when you need additional guidance](help.md)
