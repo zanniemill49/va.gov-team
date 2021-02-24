@@ -15,13 +15,12 @@ Reviewing bug fixes is one of the most tangible ways to measure process improvem
 ### Sample Bug Template (NOTE: this is already linked to title but will include in the body of this page as well)
 
 *Specs:*
-- Device: (e.g. iPhone 8, Macbook)
+- Device: (e.g. iPhone 8, MacBook)
 - Browser: (e.g. Firefox, IE 11)
-- User account:
+- Test account: (e.g. test_user+123@gmail.com)
 
 *Steps to Reproduce*
-- url:
-- user:
+- Product URL: (e.g. https://staging.va.gov/va-payment-history/)
 - What happened:
 Describe in detail what went wrong; screenshots, videos, or gifs are strongly encouraged*
 - Desired behavior:
@@ -29,6 +28,3 @@ Describe in detail what was supposed to happen; reference existing Zenhub issue 
           
 *Attachments*
 - Make sure to attach either a screenshot or, preferably, a GIF file. To create GIF file screenshots, you can use LICEcap (downloads found [here](https://www.cockos.com/licecap/)). 
-
-**Validation**
-Feature tickets are validated on staging before they are closed. Validators summarize how the feature was validated on the ticket.
