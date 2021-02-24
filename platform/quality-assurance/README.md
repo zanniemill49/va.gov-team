@@ -11,8 +11,8 @@ The Quality Assurance practice area points of contact are:
 - Joe Tice, Testing Tools Team PM: [@Joe Tice](https://dsva.slack.com/team/U01D2NR3ZS8) on Slack
 
 # Table of Contents
-1. [**Process** for designing and executing a QA test plan](process.md)
-1. [**Tools** for practicing the prescribed QA process successfully](tools.md)
+1. [**Process** for designing and executing a QA test plan](qa-process.md)
+1. [**Tools** for practicing the prescribed QA process successfully](qa-tools.md)
 1. [**Record** a test incident during QA activities](record-test-incident.md)
 1. [**Artifacts** you should have at the completion of QA activities](qa-artifacts.md)
-1. [**Help** for when you need additional guidance](help.md)
+1. [**Help** for when you need additional guidance](qa-help.md)
